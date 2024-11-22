@@ -1,0 +1,8 @@
+# .gitignore file
+node_modules/
+__pycache__/
+*.keras
+*.dylib
+fa/
+*.log
+*.env
